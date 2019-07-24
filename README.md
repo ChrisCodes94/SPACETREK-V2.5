@@ -1,2 +1,2 @@
-# SPACETREK-V2.5
-platorm shooter 
+# Spacetrek.v1
+Simple game I learned to build from Brackeys
